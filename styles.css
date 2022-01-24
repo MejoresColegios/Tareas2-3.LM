@@ -1,0 +1,147 @@
+h1 {
+    text-align: left;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifv;
+    color: white;
+}
+
+h2 {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: white;
+    transition: background-color .5s;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:hover {
+    color: #17b6ff
+}
+
+.elementos-menu {
+    padding-bottom: 30px;
+}
+
+.cabecera {
+    height: 200px;
+    width: 100%;
+    background: linear-gradient(to right, navy, rgb(8, 184, 238));
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.img-cabecera {
+    float: left;
+    margin-left: 25%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.menu {
+    float: left;
+    height: 1000px;
+    width: 200px;
+    border-radius: 20px;
+    background: linear-gradient(to right, navy, rgb(8, 184, 238));
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.contenido {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    height: 1000px;
+    margin-top: 10px;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-bottom: 50px;
+
+}
+
+.articulo {
+    color: lightgrey;
+    margin-left: 220px;
+    margin-bottom: 20px;
+    background: linear-gradient(to right, rgb(8, 184, 238), navy);
+    border-radius: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+.cartel-pelicula {
+    float: left;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: darkblue;
+}
+
+.tabla-pelicula {
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+.critica-pelicula {
+    margin-top: 30px;
+}
+
+input[type=text] {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.autores {
+    text-align: center;
+    float: right;
+    padding-top: 60px;
+    padding-right: 60px;
+    margin-right: 50px;
+    ;
+    padding-left: 60px;
+    padding-bottom: 60px;
+}
+
+.pie {
+    height: 200px;
+    width: 100%;
+    background: linear-gradient(to right, navy, rgb(8, 184, 238));
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.newsletter {
+    float: left;
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Creo el canal -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+    <title type="text">Canal RSS La Claqueta</title>
+    <id>http://www.cicelaclaqueta.es</id>
+    <link rel="self" type="application/atom+xml" href="http://www.cicelaclaqueta.es/feed/canal.atom" />
+    <link rel="alternate" type="text/html" href="http://www.cicelaclaqueta.es"/>
+    <updated>2021-12-29T13:03:54Z</updated>
+    <author>
+        <name>José María Sánchez</name>
+        <email>jsaninf770@g.educaand.es</email>
+    </author>
+    <category term="Cines"/>
+    <category term="Estrenos"/>
+    <category term="Cartelera"/>
+    <!-- Defino la primera entrada -->
+    <entry>
+        <title>Cine La Claqueta crea web con servicio de sindicación de contenidos.</title>
+        <link rel="alternate" type="text/html" href="https://www.cicelaclaqueta.es/noticias/nuevo_servicio_de_sindicacion"/>
+        <updated>2021-12-18T09:30:00Z</updated>
+        <id>https://www.cicelaclaqueta.es/noticias/nuevo_servicio_de_sindicacion</id>
+        <author>
+            <name>Ana y Pedro</name>
+            <email>info@cicelaclaqueta.es</email>
+        </author>
+        <summary>El cine La Claqueta añade a su web el servicio de sindicación de contenidos con los estándares RSS y Atom.</summary>
+    </entry>
+    <!-- Defino la segunda entrada -->
+    <entry>
+        <title>Las 45 mejores películas de navidad en Netflix, ordenadas.</title>
+        <link rel="alternate" type="text/html" href="https://www.fotogramas.es/noticias-cine/g25376309/netflix-mejores-peliculas-navidad/"/>
+        <updated>2021-12-26T09:30:00Z</updated>
+        <id>https://www.fotogramas.es/noticias-cine/g25376309/netflix-mejores-peliculas-navidad/</id>
+        <author>
+            <name>Juan Arcones y redacción</name>
+            <email>ejemplo@ejemplo.com</email>
+        </author>
+        <summary>Llegan las vacaciones de Navidad, y en el catálogo de Netflix tenemos la lista perfecta con las películas que tienes que ver, con muchas comedias románticas.</summary>
+        <link rel="enclosure" type="image/jpeg" length="137157" href="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/a-mil-kilometros-de-la-navidad-1640513743.jpg"/>
+    </entry>
+    <!-- Defino la tercera entrada -->
+    <entry>
+        <title>Películas y series españolas de navidad</title>
+        <link rel="alternate" type="text/html" href="https://www.actoresactricesrevista.com/peliculas-espanolas-navidenas"/>
+        <updated>2021-12-21T09:30:00Z</updated>
+        <id>https://www.actoresactricesrevista.com/peliculas-espanolas-navidenas</id>
+        <author>
+            <name>Unión de Actores y Actrices</name>
+            <email>ejemplo@ejemplo.com</email>
+        </author>
+        <summary>La Navidad es sinónimo de familias alrededor de la mesa, villancicos acompañados de pandereta y zambomba
+            y, por supuesto, de sofá, manta, palomitas (o turrón) y película navideña</summary>
+        <link rel="enclosure" type="image/jpeg" length="130170" href="https://static.wixstatic.com/media/44a1a8_be09d32ef0564a0ebef17c5f9c687f76~mv2.jpg/v1/fill/w_1022,h_576,al_c,q_85/Cine_espanol-Cine_de_animacion-Premios_O.jpg"/>
+    </entry>
+</feed>

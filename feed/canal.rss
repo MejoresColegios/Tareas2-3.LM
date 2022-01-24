@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <!-- Defino el canal -->
+    <channel>
+        <title>Canal RSS La Claqueta</title>
+        <link>https://www.cicelaclaqueta.es/feed/canal.rss</link>
+        <description>Canal Rss de la web La Claqueta</description>
+        <language>es</language>
+        <managingEditor>jsaninf770@g.educaand.es (José María Sánchez)</managingEditor>
+        <category>Cines/Estrenos/Cartelera</category>
+        <!-- Defino la primera entrada -->
+        <item>
+            <title>Cine la Claqueta crea web con servicio de sindicación de contenidos.</title>
+            <link>https://www.cicelaclaqueta.es/noticias/nuevo_servicio_de_sindicacion</link>
+            <description>El cine La Claqueta añade a su web el servicio de sindicación de contenidos con los estándares RSS y Atom.</description>
+            <category>Cines</category>
+            <pubDate>Sat, 18 Dec 2021 10:30:00 +0100</pubDate>
+        </item>
+        <!-- Defino la segunda entrada -->
+        <item>
+            <title>Las 45 mejores películas de navidad en Netflix, ordenadas.</title>
+            <link>https://www.fotogramas.es/noticias-cine/g25376309/netflix-mejores-peliculas-navidad/</link>
+            <description>Llegan las vacaciones de Navidad, y en el catálogo de Netflix tenemos la lista perfecta con las películas que tienes que ver, con muchas comedias románticas.</description>
+            <category>Cartelera</category>
+            <pubDate>Sun, 26 Dec 2021 10:30:00 +0100</pubDate>
+            <author>ejemplo@ejemplo.com (Juan Arcones y redacción)</author>
+            <enclosure url="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/a-mil-kilometros-de-la-navidad-1640513743.jpg" length="137157" type="image/jpeg"/>
+        </item>
+        <!-- Defino la tercera entrada -->
+        <item>
+            <title>Películas y series españolas de navidad</title>
+            <link>https://www.actoresactricesrevista.com/peliculas-espanolas-navidenas</link>
+            <description>La Navidad es sinónimo de familias alrededor de la mesa, villancicos acompañados de pandereta y zambomba
+                y, por supuesto, de sofá, manta, palomitas (o turrón) y película navideña.</description>
+            <category>Cartelera</category>
+            <pubDate>Tue, 21 Dec 2021 10:30:00 +0100</pubDate>
+            <author>ejemplo@ejemplo.com (Unión de Actores y Actrices)</author>
+            <enclosure url="https://static.wixstatic.com/media/44a1a8_be09d32ef0564a0ebef17c5f9c687f76~mv2.jpg/v1/fill/w_1022,h_576,al_c,q_85/Cine_espanol-Cine_de_animacion-Premios_O.jpg" length="130170" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
